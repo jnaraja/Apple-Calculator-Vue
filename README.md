@@ -1,6 +1,6 @@
 # Apple_Calculator
 
-This web application is a mock version of an Apple Calculator
+This web application is a mock version of Apple's iOS Calculator application
 
 ## Project Setup
 
