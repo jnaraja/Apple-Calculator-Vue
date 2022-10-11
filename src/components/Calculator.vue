@@ -116,7 +116,7 @@ export default {
         },
 
         decimal() {
-
+            // TODO: add decimals to input
         },
 
         percent() {
